@@ -1,0 +1,15 @@
+{
+  "name": "web_image_scrapper",
+  "version": "1.0.0",
+  "description": "this node application will scrap images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shahid",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "request": "^2.88.2"
+  }
+}
